@@ -2,7 +2,7 @@
 layout: post
 title:  "Explicación de los formatos de paquetes de Linux: Flatpak vs Snaps vs DEB y RPM vs AppImage"
 categories: [ Fundamentos de linux, tutorial ]
-image: assets/images/1.jpg
+image: assets/images/flatpaks_snaps_appimages.png
 ---
 # Análisis Detallado de Formatos de Empaquetado en Linux
 
@@ -28,4 +28,4 @@ En el pasado, trabajar con el código fuente era más común, especialmente para
 
 La diversidad de formatos de empaquetado en Linux ha evolucionado para ofrecer opciones más accesibles y fáciles de usar. Actualmente, Flatpak lidera seguido de cerca por AppImage, mientras que Snap ha perdido popularidad debido a problemas de integración. Los formatos empaquetados ofrecen una experiencia de usuario más fluida y han desplazado en gran medida el trabajo directo con el código fuente, reservado ahora para situaciones excepcionales donde no hay alternativas disponibles.
 
-<iframe style="width:100%;" height="315" src="https://youtu.be/dIdamacw_CE" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/dIdamacw_CE?si=IXO-lTSKTMJGLCZg" frameborder="0" allowfullscreen></iframe>

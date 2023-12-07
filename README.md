@@ -1,5 +1,3 @@
-# Affiliates - Free Jekyll Theme
+# Pagina web de RengTech
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+[Link a la web](https://rengtech.github.io)

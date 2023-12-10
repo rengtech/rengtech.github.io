@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'rengtech'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -31,7 +31,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "RengTech Youtube Channel"
   john:
     name: RengTech
     display_name: RengTech
@@ -39,14 +39,14 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    description: "RengTech Youtube Channel"
 
 # Social
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
   twitter: https://twitter.com/bstartercom
-
+  youtube: https://www.youtube.com/@rengtech/videos
 # Plugins
 plugins: 
 - jekyll-paginate

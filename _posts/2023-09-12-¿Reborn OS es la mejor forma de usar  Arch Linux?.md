@@ -3,7 +3,7 @@ layout: post
 title:  "¿Reborn OS es la mejor forma de usar  Arch Linux?"
 author: RengTech
 categories: [ Fundamentos de linux, tutorial ]
-image: assets/images/flatpaks_snaps_appimages.png
+image: assets/images/reborn_os.png
 ---
 # Ribbon OS: Guía Completa de Personalización y Funcionalidades
 
@@ -33,5 +33,5 @@ El artículo concluye subrayando la estabilidad del sistema en entornos virtuale
 <iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/embed/SE_6ttu-0_c?si=A1CVB-INyxiMDC5U" frameborder="0" allowfullscreen></iframe>
 
 Si encontraste útil la información proporcionada en este artículo y deseas apoyar mi trabajo, considera realizar tus compras en Amazon a través de los enlaces de afiliados incluidos (<a href="https://amzn.to/3Rknqjn" rel="nofollow">Compra en Amazon</a>). Estos enlaces no generan ningún costo adicional para ti, pero contribuyen a respaldar la creación de más contenido y recursos como este. ¡Gracias por tu apoyo!
-[Compra en Amazon](https://amzn.to/3Rknqjn)
+
 

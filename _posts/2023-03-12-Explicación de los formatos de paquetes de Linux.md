@@ -29,4 +29,8 @@ En el pasado, trabajar con el código fuente era más común, especialmente para
 
 La diversidad de formatos de empaquetado en Linux ha evolucionado para ofrecer opciones más accesibles y fáciles de usar. Actualmente, Flatpak lidera seguido de cerca por AppImage, mientras que Snap ha perdido popularidad debido a problemas de integración. Los formatos empaquetados ofrecen una experiencia de usuario más fluida y han desplazado en gran medida el trabajo directo con el código fuente, reservado ahora para situaciones excepcionales donde no hay alternativas disponibles.
 
+¿Quieres ver más sobre los formatos de paquetes en Linux? ¡Chequea este video! Ofrece detalles extra y una mirada más cercana al sistema operativo. ¡Disfruta del contenido visual para complementar lo que has leído!
+
 <iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/dIdamacw_CE?si=IXO-lTSKTMJGLCZg" frameborder="0" allowfullscreen></iframe>
+
+Si encontraste útil la información proporcionada en este artículo y deseas apoyar mi trabajo, considera realizar tus compras en Amazon a través de los enlaces de afiliados incluidos (<a href="https://amzn.to/3Rknqjn" rel="nofollow">Compra en Amazon</a>). Estos enlaces no generan ningún costo adicional para ti, pero contribuyen a respaldar la creación de más contenido y recursos como este. ¡Gracias por tu apoyo!

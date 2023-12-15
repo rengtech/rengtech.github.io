@@ -2,7 +2,7 @@
 layout: post
 title:  "KDE Plasma 6: ¡Descubre las increíbles novedades de este fantástico escritorio!"
 author: RengTech
-categories: [ Novedades de Linux, KDE Plasma ]
+categories: [ Novedades_de_Linux, KDE_Plasma ]
 image: assets/images/kde6_novedades.png
 ---
 # Explorando las Impactantes Novedades de KDE Plasma 6: Avances y Cambios por Delante

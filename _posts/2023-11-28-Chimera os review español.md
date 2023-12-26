@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¡Convierte tu PC en una consola de videojuegos  con ChimeraOS! |Chimera os review español"
-author: RengTech
+author: Rengtech
 categories: [ gaming on linux,chimera_os]
 image: assets/images/chimera_os_review.png
 ---
@@ -11,7 +11,7 @@ En el mundo del gaming, la revolución está en marcha, y no necesariamente bajo
 
 ## El Encanto de QuimeraOS: Más que una Simple Distribución de Linux
 
-En un nuevo video presentado en nuestro canal, exploramos la distribución de QuimeraOS, esencialmente la interpretación de la Steam Deck en un entorno de PC ejecutando Linux. Desde su configuración hasta su capacidad de ejecución, QuimeraOS exhibe un rendimiento impresionante. Con actualizaciones de software, un kernel de última generación, procesadores potentes como el Ryzen 5 3520G, 16GB de RAM y una tarjeta gráfica 6600TMD, este sistema redefine las expectativas.
+En un nuevo video presentado en nuestro canal, exploramos la distribución de QuimeraOS, esencialmente la interpretación de la Steam Deck en un entorno de PC ejecutando Linux. Desde su configuración hasta su capacidad de ejecución, QuimeraOS exhibe un rendimiento impresionante. Con actualizaciones de software, un kernel de última generación, procesadores potentes como el Ryzen 5 3400G, 16GB de RAM y una tarjeta gráfica AMD 6600, este sistema redefine las expectativas.
 
 ## Detalles Reveladores y Configuraciones Versátiles
 

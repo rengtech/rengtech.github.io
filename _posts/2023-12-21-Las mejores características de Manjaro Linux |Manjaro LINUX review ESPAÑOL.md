@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Las mejores características de Manjaro Linux |Manjaro LINUX review ESPAÑOL"
-author: RengTech
+author: Rengtech
 categories: [ distribuciones linux, distribuciones linux basadas en arch-linux ]
 image: assets/images/manjaro_review.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Explicación de los formatos de paquetes de Linux: Flatpak vs Snaps vs DEB y RPM vs AppImage"
-author: RengTech
+author: Rengtech
 categories: [ Conocimientos_basicos_de_linux]
 image: assets/images/flatpaks_snaps_appimages.png
 ---

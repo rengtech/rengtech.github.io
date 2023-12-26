@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KDE Plasma 6: ¡Descubre las increíbles novedades de este fantástico escritorio!"
-author: RengTech
+author: Rengtech
 categories: [ Novedades_de_Linux, KDE_Plasma ]
 image: assets/images/kde6_novedades.png
 ---

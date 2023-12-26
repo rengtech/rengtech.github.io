@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Reborn OS es la mejor forma de usar  Arch Linux?"
-author: RengTech
+author: Rengtech
 categories: [ Distribuciones_linux_basadas_en_Arch-Linux,distribuciones-linux ]
 image: assets/images/reborn_os.png
 ---

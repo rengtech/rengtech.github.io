@@ -46,7 +46,7 @@ En resumen, Debian 12 es un sistema operativo que equilibra hábilmente la estab
 
 ¡Revisión completa y detallada de Debian 12 en español en el video mostrado a continuación!
 
-<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Rb7hJiN1wpg?si=TQNUitJlGUZhFEs4" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/CPBXL2WpAXg?si=XbYoTDFapHY9Qcuj" frameborder="0" allowfullscreen></iframe>
 
 Si encontraste útil la información proporcionada en este artículo y deseas apoyar mi trabajo, considera realizar tus compras en Amazon a través de los enlaces de afiliados incluidos (<a href="https://amzn.to/3Rknqjn" rel="nofollow">Compra en Amazon</a>). Estos enlaces no generan ningún costo adicional para ti, pero contribuyen a respaldar la creación de más contenido y recursos como este. ¡Gracias por tu apoyo!
 

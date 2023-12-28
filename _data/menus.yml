@@ -15,6 +15,9 @@ footermenu:
 - title: Home
   url: ""
 
+- title: RSS
+  url: "feed.xml/"
+
 - title: Politica de privacidad
   url: "privacy-policy/"
 

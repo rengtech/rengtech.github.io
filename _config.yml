@@ -25,17 +25,17 @@ ganalytics: G-NHQ6Q8MQ3S
 # Authors
 authors:
   sal:
-    name: RengTech
-    display_name: RengTech
-    avatar: 'assets/images/sal.png'
+    name: Rengtech
+    display_name: Rengtech
+    avatar: 'assets/images/Rengtech.png'
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
     description: "RengTech Youtube Channel"
   john:
-    name: RengTech
-    display_name: RengTech
-    avatar: 'assets/images/john.png'
+    name: Rengtech
+    display_name: Rengtech
+    avatar: 'assets/images/Rengtech.png'
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://twitter.com/Reengstuff
+  facebook: https://twitter.com/Reengstuff
+  twitter: https://twitter.com/Reengstuff
   youtube: https://www.youtube.com/@rengtech/videos
 # Plugins
 plugins: 

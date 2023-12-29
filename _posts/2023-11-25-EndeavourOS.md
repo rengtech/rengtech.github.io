@@ -3,7 +3,7 @@ layout: post
 title:  "EndeavourOS Galileo: Una de las  mejores manera de instalar Arch Linux"
 author: Rengtech
 categories: [ EndeavourOS,distribuciones linux basadas en arch-linux]
-image: assets/images/endeavour_os.png.png
+image: assets/images/endeavour_os.png
 ---
 # Descubriendo el Encanto de EndeavourOS: Más que una Distribución
 

@@ -29,3 +29,8 @@ Pero la personalización no se detiene aquí. Desde la instalación de paquetes 
 ## Conclusión: El Comienzo de una Gran Aventura
 
 Con cada línea de código, estás creando tu propia historia en el vasto lienzo digital de Linux. A medida que te sumerjas más profundamente en el mundo de la personalización del terminal, recuerda que esta es solo una etapa de tu viaje. ¡Atrévete a explorar, a experimentar y a crear un entorno que refleje tu singularidad! ¡Hasta la próxima, aventurero de la línea de comandos!
+
+<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/2Q1yW2jJ3tc?si=VhC7F-SBdm0kKJwO" frameborder="0" allowfullscreen></iframe>
+
+Si encontraste útil la información proporcionada en este artículo y deseas apoyar mi trabajo, considera realizar tus compras en Amazon a través de los enlaces de afiliados incluidos (<a href="https://amzn.to/3Rknqjn" rel="nofollow">Compra en Amazon</a>). Estos enlaces no generan ningún costo adicional para ti, pero contribuyen a respaldar la creación de más contenido y recursos como este. ¡Gracias por tu apoyo!
+

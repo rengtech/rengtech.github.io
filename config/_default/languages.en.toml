@@ -1,0 +1,12 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rengtech"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My awesome website"
+dateFormat = "2 January 2006"
+author = { name = "Your name here", image = "img/blowfish_logo.png", headline = "I'm only human", bio = "A little bit about you" }
